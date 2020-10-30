@@ -26,8 +26,6 @@ The CycleGAN model takes a real image from domain A and converts that image to a
 - Jupyter notebook
 - Pillow
 - Matplotlib
-
-
 <br/><br/>
 
 ## Installation and Running
@@ -38,7 +36,7 @@ The CycleGAN model takes a real image from domain A and converts that image to a
     $ pip install -r static/libraries/requirements.txt
     $ jupyter notebook
 * Once your jupyter notebook is opened, you can run a training_cyclegan.ipynb or inference_cyclegan.ipynb.</li>
-* If you are not able to install libraries from requirements.txt or run on any notebooks, you are welcome [run](https://nhancs.com/project/1) the model on my website.
+* If you are not able to install libraries from requirements.txt or run on any notebooks, you are welcome [run](https://nhancs.com/project/2) the model on my website.
 <br/><br/>
 
 ## Contributing
